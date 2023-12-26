@@ -3,2178 +3,2178 @@
     "name": "cef.pak",
     "size": 6003861,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef.pak"
   },
   {
     "name": "cef_100_percent.pak",
     "size": 279905,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_100_percent.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_100_percent.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_100_percent.pak"
   },
   {
     "name": "cef_200_percent.pak",
     "size": 386884,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_200_percent.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_200_percent.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_200_percent.pak"
   },
   {
     "name": "cef_extensions.pak",
     "size": 3565138,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\cef_extensions.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_extensions.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/cef_extensions.pak"
   },
   {
     "name": "devtools_resources.pak",
     "size": 5183550,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\devtools_resources.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/devtools_resources.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/devtools_resources.pak"
   },
   {
     "name": "am.pak",
     "size": 317735,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\am.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/am.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/am.pak"
   },
   {
     "name": "ar.pak",
     "size": 314031,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ar.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ar.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ar.pak"
   },
   {
     "name": "bg.pak",
     "size": 366595,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bg.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bg.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bg.pak"
   },
   {
     "name": "bn.pak",
     "size": 478939,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\bn.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bn.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/bn.pak"
   },
   {
     "name": "ca.pak",
     "size": 228122,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ca.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ca.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ca.pak"
   },
   {
     "name": "cs.pak",
     "size": 231572,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\cs.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/cs.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/cs.pak"
   },
   {
     "name": "da.pak",
     "size": 207739,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\da.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/da.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/da.pak"
   },
   {
     "name": "de.pak",
     "size": 226211,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\de.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/de.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/de.pak"
   },
   {
     "name": "el.pak",
     "size": 402687,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\el.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/el.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/el.pak"
   },
   {
     "name": "en-GB.pak",
     "size": 186958,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-GB.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-GB.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-GB.pak"
   },
   {
     "name": "en-US.pak",
     "size": 186991,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\en-US.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-US.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/en-US.pak"
   },
   {
     "name": "es-419.pak",
     "size": 224532,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es-419.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es-419.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es-419.pak"
   },
   {
     "name": "es.pak",
     "size": 228808,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\es.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/es.pak"
   },
   {
     "name": "et.pak",
     "size": 202214,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\et.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/et.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/et.pak"
   },
   {
     "name": "fa.pak",
     "size": 321134,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fa.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fa.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fa.pak"
   },
   {
     "name": "fi.pak",
     "size": 211980,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fi.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fi.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fi.pak"
   },
   {
     "name": "fil.pak",
     "size": 232070,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fil.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fil.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fil.pak"
   },
   {
     "name": "fr.pak",
     "size": 243625,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\fr.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fr.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/fr.pak"
   },
   {
     "name": "gu.pak",
     "size": 451818,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\gu.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/gu.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/gu.pak"
   },
   {
     "name": "he.pak",
     "size": 265463,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\he.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/he.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/he.pak"
   },
   {
     "name": "hi.pak",
     "size": 460810,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hi.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hi.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hi.pak"
   },
   {
     "name": "hr.pak",
     "size": 217428,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hr.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hr.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hr.pak"
   },
   {
     "name": "hu.pak",
     "size": 239083,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\hu.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hu.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/hu.pak"
   },
   {
     "name": "id.pak",
     "size": 201977,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\id.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/id.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/id.pak"
   },
   {
     "name": "it.pak",
     "size": 220397,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\it.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/it.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/it.pak"
   },
   {
     "name": "ja.pak",
     "size": 270807,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ja.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ja.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ja.pak"
   },
   {
     "name": "kn.pak",
     "size": 519415,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\kn.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/kn.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/kn.pak"
   },
   {
     "name": "ko.pak",
     "size": 230850,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ko.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ko.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ko.pak"
   },
   {
     "name": "lt.pak",
     "size": 234416,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lt.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lt.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lt.pak"
   },
   {
     "name": "lv.pak",
     "size": 234204,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\lv.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lv.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/lv.pak"
   },
   {
     "name": "ml.pak",
     "size": 567612,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ml.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ml.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ml.pak"
   },
   {
     "name": "mr.pak",
     "size": 456368,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\mr.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/mr.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/mr.pak"
   },
   {
     "name": "ms.pak",
     "size": 208619,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ms.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ms.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ms.pak"
   },
   {
     "name": "nb.pak",
     "size": 205047,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nb.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nb.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nb.pak"
   },
   {
     "name": "nl.pak",
     "size": 215699,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\nl.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nl.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/nl.pak"
   },
   {
     "name": "pl.pak",
     "size": 225555,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pl.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pl.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pl.pak"
   },
   {
     "name": "pt-BR.pak",
     "size": 221133,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-BR.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-BR.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-BR.pak"
   },
   {
     "name": "pt-PT.pak",
     "size": 223472,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\pt-PT.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-PT.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/pt-PT.pak"
   },
   {
     "name": "ro.pak",
     "size": 229091,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ro.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ro.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ro.pak"
   },
   {
     "name": "ru.pak",
     "size": 351003,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ru.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ru.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ru.pak"
   },
   {
     "name": "sk.pak",
     "size": 237218,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sk.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sk.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sk.pak"
   },
   {
     "name": "sl.pak",
     "size": 217919,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sl.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sl.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sl.pak"
   },
   {
     "name": "sr.pak",
     "size": 341731,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sr.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sr.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sr.pak"
   },
   {
     "name": "sv.pak",
     "size": 206145,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sv.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sv.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sv.pak"
   },
   {
     "name": "sw.pak",
     "size": 209319,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\sw.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sw.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/sw.pak"
   },
   {
     "name": "ta.pak",
     "size": 527387,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\ta.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ta.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/ta.pak"
   },
   {
     "name": "te.pak",
     "size": 503299,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\te.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/te.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/te.pak"
   },
   {
     "name": "th.pak",
     "size": 438108,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\th.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/th.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/th.pak"
   },
   {
     "name": "tr.pak",
     "size": 221774,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\tr.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/tr.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/tr.pak"
   },
   {
     "name": "uk.pak",
     "size": 358245,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\uk.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak"
   },
   {
     "name": "vi.pak",
     "size": 254300,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\vi.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak"
   },
   {
     "name": "zh-CN.pak",
     "size": 190714,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-CN.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak"
   },
   {
     "name": "zh-TW.pak",
     "size": 192079,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\Resources\\locales\\zh-TW.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak"
   },
   {
     "name": "chrome_elf.dll",
     "size": 553872,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\chrome_elf.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/chrome_elf.dll"
   },
   {
     "name": "d3dcompiler_43.dll",
     "size": 2106256,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_43.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_43.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_43.dll"
   },
   {
     "name": "d3dcompiler_47.dll",
     "size": 4479376,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\d3dcompiler_47.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/d3dcompiler_47.dll"
   },
   {
     "name": "icudtl.dat",
     "size": 10130560,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\icudtl.dat",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/icudtl.dat"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/icudtl.dat"
   },
   {
     "name": "libEGL.dll",
     "size": 98704,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libEGL.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/libEGL.dll"
   },
   {
     "name": "libGLESv2.dll",
     "size": 3928464,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libGLESv2.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/libGLESv2.dll"
   },
   {
     "name": "libcef.dll",
     "size": 98281360,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\libcef.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/libcef.dll"
   },
   {
     "name": "natives_blob.bin",
     "size": 246209,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\natives_blob.bin",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/natives_blob.bin"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/natives_blob.bin"
   },
   {
     "name": "snapshot_blob.bin",
     "size": 1562112,
     "path": "Engine\\Binaries\\ThirdParty\\CEF3\\Win64\\snapshot_blob.bin",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/snapshot_blob.bin"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/CEF3/Win64/snapshot_blob.bin"
   },
   {
     "name": "GFSDK_Aftermath_Lib.x64.dll",
     "size": 123792,
     "path": "Engine\\Binaries\\ThirdParty\\NVIDIA\\NVaftermath\\Win64\\GFSDK_Aftermath_Lib.x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll"
   },
   {
     "name": "libogg_64.dll",
     "size": 55184,
     "path": "Engine\\Binaries\\ThirdParty\\Ogg\\Win64\\VS2015\\libogg_64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll"
   },
   {
     "name": "APEX_Clothing_x64.dll",
     "size": 1225104,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Clothing_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Clothing_x64.dll"
   },
   {
     "name": "APEX_Legacy_x64.dll",
     "size": 3335568,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\APEX_Legacy_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_Legacy_x64.dll"
   },
   {
     "name": "ApexFramework_x64.dll",
     "size": 1050000,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\ApexFramework_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFramework_x64.dll"
   },
   {
     "name": "NvCloth_x64.dll",
     "size": 271760,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\NvCloth_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvCloth_x64.dll"
   },
   {
     "name": "PhysX3Common_x64.dll",
     "size": 1605008,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Common_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Common_x64.dll"
   },
   {
     "name": "PhysX3Cooking_x64.dll",
     "size": 250768,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3Cooking_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3Cooking_x64.dll"
   },
   {
     "name": "PhysX3_x64.dll",
     "size": 2112400,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PhysX3_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3_x64.dll"
   },
   {
     "name": "PxFoundation_x64.dll",
     "size": 60816,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxFoundation_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll"
   },
   {
     "name": "PxPvdSDK_x64.dll",
     "size": 194960,
     "path": "Engine\\Binaries\\ThirdParty\\PhysX3\\Win64\\VS2015\\PxPvdSDK_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll"
   },
   {
     "name": "ortp_x64.dll",
     "size": 227728,
     "path": "Engine\\Binaries\\ThirdParty\\Vivox\\Win64\\ortp_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/Vivox/Win64/ortp_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/Vivox/Win64/ortp_x64.dll"
   },
   {
     "name": "vivoxsdk_x64.dll",
     "size": 5200784,
     "path": "Engine\\Binaries\\ThirdParty\\Vivox\\Win64\\vivoxsdk_x64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/Vivox/Win64/vivoxsdk_x64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/Vivox/Win64/vivoxsdk_x64.dll"
   },
   {
     "name": "libvorbis_64.dll",
     "size": 1720208,
     "path": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbis_64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll"
   },
   {
     "name": "libvorbisfile_64.dll",
     "size": 43920,
     "path": "Engine\\Binaries\\ThirdParty\\Vorbis\\Win64\\VS2015\\libvorbisfile_64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll"
   },
   {
     "name": "WinPixEventRuntime.dll",
     "size": 34704,
     "path": "Engine\\Binaries\\ThirdParty\\Windows\\DirectX\\x64\\WinPixEventRuntime.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll"
   },
   {
     "name": "CrashReportClient.exe",
     "size": 16417168,
     "path": "Engine\\Binaries\\Win64\\CrashReportClient.exe",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/CrashReportClient.exe"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/CrashReportClient.exe"
   },
   {
     "name": "UnrealCEFSubProcess.exe",
     "size": 3699600,
     "path": "Engine\\Binaries\\Win64\\UnrealCEFSubProcess.exe",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/UnrealCEFSubProcess.exe"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/UnrealCEFSubProcess.exe"
   },
   {
     "name": "X3DAudio1_7.dll",
     "size": 24976,
     "path": "Engine\\Binaries\\Win64\\X3DAudio1_7.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/X3DAudio1_7.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/X3DAudio1_7.dll"
   },
   {
     "name": "XAPOFX1_5.dll",
     "size": 77712,
     "path": "Engine\\Binaries\\Win64\\XAPOFX1_5.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/XAPOFX1_5.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/XAPOFX1_5.dll"
   },
   {
     "name": "XAudio2_7.dll",
     "size": 518544,
     "path": "Engine\\Binaries\\Win64\\XAudio2_7.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/XAudio2_7.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/XAudio2_7.dll"
   },
   {
     "name": "api-ms-win-core-console-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-console-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-console-l1-2-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-console-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-console-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-console-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-datetime-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-datetime-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-debug-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-debug-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-errorhandling-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-errorhandling-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-file-l1-1-0.dll",
     "size": 12688,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-file-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-file-l1-2-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-file-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-file-l2-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-file-l2-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll"
   },
   {
     "name": "api-ms-win-core-handle-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-handle-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-heap-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-heap-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-interlocked-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-interlocked-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-libraryloader-l1-1-0.dll",
     "size": 10128,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-libraryloader-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-localization-l1-2-0.dll",
     "size": 11664,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-localization-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-memory-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-memory-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-namedpipe-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-namedpipe-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-processenvironment-l1-1-0.dll",
     "size": 10128,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-processenvironment-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-processthreads-l1-1-0.dll",
     "size": 11152,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-processthreads-l1-1-1.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-1.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll"
   },
   {
     "name": "api-ms-win-core-profile-l1-1-0.dll",
     "size": 8592,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-profile-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-rtlsupport-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-rtlsupport-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-string-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-string-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-synch-l1-1-0.dll",
     "size": 11152,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-synch-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-synch-l1-2-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-synch-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-sysinfo-l1-1-0.dll",
     "size": 10128,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-sysinfo-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-timezone-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-timezone-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-util-l1-1-0.dll",
     "size": 9104,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-core-util-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-conio-l1-1-0.dll",
     "size": 10128,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-conio-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-convert-l1-1-0.dll",
     "size": 13200,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-convert-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-environment-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-environment-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-filesystem-l1-1-0.dll",
     "size": 11152,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-filesystem-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-heap-l1-1-0.dll",
     "size": 10128,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-heap-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-locale-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-locale-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-math-l1-1-0.dll",
     "size": 18320,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-math-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-multibyte-l1-1-0.dll",
     "size": 17296,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-multibyte-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-private-l1-1-0.dll",
     "size": 61840,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-private-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-process-l1-1-0.dll",
     "size": 10128,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-process-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-runtime-l1-1-0.dll",
     "size": 13712,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-runtime-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-stdio-l1-1-0.dll",
     "size": 15248,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-stdio-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-string-l1-1-0.dll",
     "size": 15248,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-string-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-time-l1-1-0.dll",
     "size": 11664,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-time-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-utility-l1-1-0.dll",
     "size": 9616,
     "path": "Engine\\Binaries\\Win64\\api-ms-win-crt-utility-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll"
   },
   {
     "name": "concrt140.dll",
     "size": 333200,
     "path": "Engine\\Binaries\\Win64\\concrt140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/concrt140.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/concrt140.dll"
   },
   {
     "name": "msvcp140.dll",
     "size": 666000,
     "path": "Engine\\Binaries\\Win64\\msvcp140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/msvcp140.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/msvcp140.dll"
   },
   {
     "name": "msvcp140_1.dll",
     "size": 21904,
     "path": "Engine\\Binaries\\Win64\\msvcp140_1.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/msvcp140_1.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/msvcp140_1.dll"
   },
   {
     "name": "ucrtbase.dll",
     "size": 1014672,
     "path": "Engine\\Binaries\\Win64\\ucrtbase.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/ucrtbase.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/ucrtbase.dll"
   },
   {
     "name": "vccorlib140.dll",
     "size": 376720,
     "path": "Engine\\Binaries\\Win64\\vccorlib140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/vccorlib140.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/vccorlib140.dll"
   },
   {
     "name": "vcruntime140.dll",
     "size": 79248,
     "path": "Engine\\Binaries\\Win64\\vcruntime140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/vcruntime140.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/vcruntime140.dll"
   },
   {
     "name": "xinput1_3.dll",
     "size": 103824,
     "path": "Engine\\Binaries\\Win64\\xinput1_3.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Binaries/Win64/xinput1_3.dll"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Binaries/Win64/xinput1_3.dll"
   },
   {
     "name": "CrashReportClient.pak",
     "size": 23527580,
     "path": "Engine\\Programs\\CrashReportClient\\Content\\Paks\\CrashReportClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/Engine/Programs/CrashReportClient/Content/Paks/CrashReportClient.pak"
   },
   {
     "name": "discord-rpc.dll",
     "size": 394128,
     "path": "FortniteGame\\Binaries\\ThirdParty\\Discord\\Win64\\discord-rpc.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/ThirdParty/Discord/Win64/discord-rpc.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/ThirdParty/Discord/Win64/discord-rpc.dll"
   },
   {
     "name": "GfeSDK.dll",
     "size": 4230032,
     "path": "FortniteGame\\Binaries\\ThirdParty\\Nvidia\\Win64\\GfeSDK.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/ThirdParty/Nvidia/Win64/GfeSDK.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/ThirdParty/Nvidia/Win64/GfeSDK.dll"
   },
   {
     "name": "SG_Com.dll",
     "size": 3122064,
     "path": "FortniteGame\\Binaries\\ThirdParty\\SpeechGraphics\\Win64\\SG_Com.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/ThirdParty/SpeechGraphics/Win64/SG_Com.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/ThirdParty/SpeechGraphics/Win64/SG_Com.dll"
   },
   {
     "name": "FortniteClient-Win64-Shipping.exe",
     "size": 106780560,
     "path": "FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping.exe",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/FortniteClient-Win64-Shipping.exe"
   },
   {
     "name": "X3DAudio1_7.dll",
     "size": 24976,
     "path": "FortniteGame\\Binaries\\Win64\\X3DAudio1_7.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/X3DAudio1_7.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/X3DAudio1_7.dll"
   },
   {
     "name": "XAPOFX1_5.dll",
     "size": 77712,
     "path": "FortniteGame\\Binaries\\Win64\\XAPOFX1_5.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/XAPOFX1_5.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/XAPOFX1_5.dll"
   },
   {
     "name": "XAudio2_7.dll",
     "size": 518544,
     "path": "FortniteGame\\Binaries\\Win64\\XAudio2_7.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/XAudio2_7.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/XAudio2_7.dll"
   },
   {
     "name": "api-ms-win-core-console-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-console-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-console-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-console-l1-2-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-console-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-console-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-console-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-datetime-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-datetime-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-datetime-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-debug-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-debug-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-debug-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-errorhandling-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-errorhandling-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-errorhandling-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-file-l1-1-0.dll",
     "size": 12688,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-file-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-file-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-file-l1-2-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-file-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-file-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-file-l2-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-file-l2-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-file-l2-1-0.dll"
   },
   {
     "name": "api-ms-win-core-handle-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-handle-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-handle-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-heap-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-heap-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-heap-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-interlocked-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-interlocked-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-interlocked-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-libraryloader-l1-1-0.dll",
     "size": 10128,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-libraryloader-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-libraryloader-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-localization-l1-2-0.dll",
     "size": 11664,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-localization-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-localization-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-memory-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-memory-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-memory-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-namedpipe-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-namedpipe-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-namedpipe-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-processenvironment-l1-1-0.dll",
     "size": 10128,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-processenvironment-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-processenvironment-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-processthreads-l1-1-0.dll",
     "size": 11152,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-processthreads-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-processthreads-l1-1-1.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-processthreads-l1-1-1.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-processthreads-l1-1-1.dll"
   },
   {
     "name": "api-ms-win-core-profile-l1-1-0.dll",
     "size": 8592,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-profile-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-profile-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-rtlsupport-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-rtlsupport-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-rtlsupport-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-string-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-string-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-string-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-synch-l1-1-0.dll",
     "size": 11152,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-synch-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-synch-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-synch-l1-2-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-synch-l1-2-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-synch-l1-2-0.dll"
   },
   {
     "name": "api-ms-win-core-sysinfo-l1-1-0.dll",
     "size": 10128,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-sysinfo-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-sysinfo-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-timezone-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-timezone-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-timezone-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-core-util-l1-1-0.dll",
     "size": 9104,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-core-util-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-core-util-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-conio-l1-1-0.dll",
     "size": 10128,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-conio-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-conio-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-convert-l1-1-0.dll",
     "size": 13200,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-convert-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-convert-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-environment-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-environment-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-environment-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-filesystem-l1-1-0.dll",
     "size": 11152,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-filesystem-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-filesystem-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-heap-l1-1-0.dll",
     "size": 10128,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-heap-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-heap-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-locale-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-locale-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-locale-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-math-l1-1-0.dll",
     "size": 18320,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-math-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-math-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-multibyte-l1-1-0.dll",
     "size": 17296,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-multibyte-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-multibyte-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-private-l1-1-0.dll",
     "size": 61840,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-private-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-private-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-process-l1-1-0.dll",
     "size": 10128,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-process-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-process-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-runtime-l1-1-0.dll",
     "size": 13712,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-runtime-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-runtime-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-stdio-l1-1-0.dll",
     "size": 15248,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-stdio-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-stdio-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-string-l1-1-0.dll",
     "size": 15248,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-string-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-string-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-time-l1-1-0.dll",
     "size": 11664,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-time-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-time-l1-1-0.dll"
   },
   {
     "name": "api-ms-win-crt-utility-l1-1-0.dll",
     "size": 9616,
     "path": "FortniteGame\\Binaries\\Win64\\api-ms-win-crt-utility-l1-1-0.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/api-ms-win-crt-utility-l1-1-0.dll"
   },
   {
     "name": "concrt140.dll",
     "size": 333200,
     "path": "FortniteGame\\Binaries\\Win64\\concrt140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/concrt140.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/concrt140.dll"
   },
   {
     "name": "dbghelp.dll",
     "size": 1370000,
     "path": "FortniteGame\\Binaries\\Win64\\dbghelp.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/dbghelp.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/dbghelp.dll"
   },
   {
     "name": "msvcp140.dll",
     "size": 666000,
     "path": "FortniteGame\\Binaries\\Win64\\msvcp140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/msvcp140.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/msvcp140.dll"
   },
   {
     "name": "msvcp140_1.dll",
     "size": 21904,
     "path": "FortniteGame\\Binaries\\Win64\\msvcp140_1.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/msvcp140_1.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/msvcp140_1.dll"
   },
   {
     "name": "oo2core_5_win64.dll",
     "size": 941456,
     "path": "FortniteGame\\Binaries\\Win64\\oo2core_5_win64.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/oo2core_5_win64.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/oo2core_5_win64.dll"
   },
   {
     "name": "ucrtbase.dll",
     "size": 1014672,
     "path": "FortniteGame\\Binaries\\Win64\\ucrtbase.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/ucrtbase.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/ucrtbase.dll"
   },
   {
     "name": "vccorlib140.dll",
     "size": 376720,
     "path": "FortniteGame\\Binaries\\Win64\\vccorlib140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/vccorlib140.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/vccorlib140.dll"
   },
   {
     "name": "vcruntime140.dll",
     "size": 79248,
     "path": "FortniteGame\\Binaries\\Win64\\vcruntime140.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/vcruntime140.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/vcruntime140.dll"
   },
   {
     "name": "xinput1_3.dll",
     "size": 103824,
     "path": "FortniteGame\\Binaries\\Win64\\xinput1_3.dll",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Binaries/Win64/xinput1_3.dll"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Binaries/Win64/xinput1_3.dll"
   },
   {
     "name": "FortniteThirdPartySoftware.txt",
     "size": 37055,
     "path": "FortniteGame\\Content\\Legal\\FortniteThirdPartySoftware.txt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Legal/FortniteThirdPartySoftware.txt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Legal/FortniteThirdPartySoftware.txt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.de_DE.srt",
     "size": 137,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.de_DE.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.de_DE.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.de_DE.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.en_EN.srt",
     "size": 133,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.en_EN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.en_EN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.en_EN.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.es_ES.srt",
     "size": 133,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.es_ES.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.es_ES.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.es_ES.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.es_MX.srt",
     "size": 133,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.es_MX.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.es_MX.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.es_MX.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.fr_FR.srt",
     "size": 131,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.fr_FR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.fr_FR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.fr_FR.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.it_IT.srt",
     "size": 132,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.it_IT.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.it_IT.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.it_IT.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.ja_JP.srt",
     "size": 127,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.ja_JP.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.ja_JP.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.ja_JP.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.ko_KR.srt",
     "size": 137,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.ko_KR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.ko_KR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.ko_KR.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.pl_PL.srt",
     "size": 134,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.pl_PL.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.pl_PL.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.pl_PL.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.pt_BR.srt",
     "size": 131,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.pt_BR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.pt_BR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.pt_BR.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.ru_RU.srt",
     "size": 159,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.ru_RU.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.ru_RU.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.ru_RU.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.tr_TR.srt",
     "size": 131,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.tr_TR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.tr_TR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.tr_TR.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.zh_CN.srt",
     "size": 124,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.zh_CN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.zh_CN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.zh_CN.srt"
   },
   {
     "name": "FORT_TheAdventureContinues_SRT.zh_TW.srt",
     "size": 124,
     "path": "FortniteGame\\Content\\Movies\\Campaign\\FORT_TheAdventureContinues_SRT.zh_TW.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.zh_TW.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Campaign/FORT_TheAdventureContinues_SRT.zh_TW.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT._kor.srt",
     "size": 217,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT._kor.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT._kor.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT._kor.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.en_EN.it_IT.srt",
     "size": 203,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN.it_IT.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN.it_IT.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN.it_IT.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.en_EN.ptBR.srt",
     "size": 199,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN.ptBR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN.ptBR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN.ptBR.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.en_EN.srt",
     "size": 198,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.en_EN_DE.srt",
     "size": 214,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN_DE.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN_DE.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN_DE.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.en_EN_JA.srt",
     "size": 255,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN_JA.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN_JA.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN_JA.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.en_EN_pl-PL.srt",
     "size": 214,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.en_EN_pl-PL.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN_pl-PL.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.en_EN_pl-PL.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.esES.srt",
     "size": 213,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.esES.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.esES.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.esES.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.esMX.srt",
     "size": 212,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.esMX.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.esMX.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.esMX.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.ru_RU.srt",
     "size": 285,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.ru_RU.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.ru_RU.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.ru_RU.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.tr.srt",
     "size": 180,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.tr.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.tr.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.tr.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.zh_CN.srt",
     "size": 176,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.zh_CN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.zh_CN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.zh_CN.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT.zh_TW.srt",
     "size": 176,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT.zh_TW.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.zh_TW.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT.zh_TW.srt"
   },
   {
     "name": "FORT_Winter2018_Cine_SRT_FR.srt",
     "size": 223,
     "path": "FortniteGame\\Content\\Movies\\Events\\FORT_Winter2018_Cine_SRT_FR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT_FR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/FORT_Winter2018_Cine_SRT_FR.srt"
   },
   {
     "name": "Into_The_Storm_2018.mp4",
     "size": 15765104,
     "path": "FortniteGame\\Content\\Movies\\Events\\Into_The_Storm_2018.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/Into_The_Storm_2018.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/Into_The_Storm_2018.mp4"
   },
   {
     "name": "FORT_PVE_LovesStormCine_022219_v15_24fps_CONSOLE.mp4",
     "size": 14750632,
     "path": "FortniteGame\\Content\\Movies\\Events\\STW\\LoveStorm_2019\\FORT_PVE_LovesStormCine_022219_v15_24fps_CONSOLE.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/STW/LoveStorm_2019/FORT_PVE_LovesStormCine_022219_v15_24fps_CONSOLE.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/STW/LoveStorm_2019/FORT_PVE_LovesStormCine_022219_v15_24fps_CONSOLE.mp4"
   },
   {
     "name": "FORT_PVE_Yarrr_Console_032019.mp4",
     "size": 17058248,
     "path": "FortniteGame\\Content\\Movies\\Events\\STW\\Yarr_2019\\FORT_PVE_Yarrr_Console_032019.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/STW/Yarr_2019/FORT_PVE_Yarrr_Console_032019.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/STW/Yarr_2019/FORT_PVE_Yarrr_Console_032019.mp4"
   },
   {
     "name": "Spring2018.mp4",
     "size": 12856063,
     "path": "FortniteGame\\Content\\Movies\\Events\\Spring2018.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Events/Spring2018.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Events/Spring2018.mp4"
   },
   {
     "name": "FireMode_3DTouch.mp4",
     "size": 4447022,
     "path": "FortniteGame\\Content\\Movies\\FireMode_3DTouch.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/FireMode_3DTouch.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/FireMode_3DTouch.mp4"
   },
   {
     "name": "FireMode_AutoFire.mp4",
     "size": 1466712,
     "path": "FortniteGame\\Content\\Movies\\FireMode_AutoFire.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/FireMode_AutoFire.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/FireMode_AutoFire.mp4"
   },
   {
     "name": "FireMode_DedicatedButton.mp4",
     "size": 1043807,
     "path": "FortniteGame\\Content\\Movies\\FireMode_DedicatedButton.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/FireMode_DedicatedButton.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/FireMode_DedicatedButton.mp4"
   },
   {
     "name": "FireMode_TapToFire.mp4",
     "size": 1050344,
     "path": "FortniteGame\\Content\\Movies\\FireMode_TapToFire.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/FireMode_TapToFire.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/FireMode_TapToFire.mp4"
   },
   {
     "name": "Adrenaline_T01.mp4",
     "size": 7171135,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T01.mp4"
   },
   {
     "name": "Adrenaline_T02.mp4",
     "size": 5339010,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T02.mp4"
   },
   {
     "name": "Adrenaline_T03.mp4",
     "size": 5958291,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T03.mp4"
   },
   {
     "name": "Adrenaline_T04.mp4",
     "size": 11461311,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Adrenaline_T04.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T04.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Adrenaline_T04.mp4"
   },
   {
     "name": "AirStrike_T04.mp4",
     "size": 14349186,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\AirStrike_T04.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/AirStrike_T04.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/AirStrike_T04.mp4"
   },
   {
     "name": "Airstrike_T01.mp4",
     "size": 11179572,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Airstrike_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Airstrike_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Airstrike_T01.mp4"
   },
   {
     "name": "Airstrike_T02.mp4",
     "size": 10951330,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Airstrike_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Airstrike_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Airstrike_T02.mp4"
   },
   {
     "name": "Airstrike_T03.mp4",
     "size": 13270805,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Airstrike_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Airstrike_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Airstrike_T03.mp4"
   },
   {
     "name": "Banner_T01.mp4",
     "size": 7724457,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Banner_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Banner_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Banner_T01.mp4"
   },
   {
     "name": "Banner_T02.mp4",
     "size": 4971730,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Banner_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Banner_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Banner_T02.mp4"
   },
   {
     "name": "Banner_T03.mp4",
     "size": 8539965,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Banner_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Banner_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Banner_T03.mp4"
   },
   {
     "name": "Mine_T01.mp4",
     "size": 6993448,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Mine_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Mine_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Mine_T01.mp4"
   },
   {
     "name": "Mine_T02.mp4",
     "size": 6331972,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Mine_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Mine_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Mine_T02.mp4"
   },
   {
     "name": "Mine_T03.mp4",
     "size": 14648602,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Mine_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Mine_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Mine_T03.mp4"
   },
   {
     "name": "SlowMo_T01.mp4",
     "size": 17294278,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\SlowMo_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/SlowMo_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/SlowMo_T01.mp4"
   },
   {
     "name": "SlowMo_T02.mp4",
     "size": 9254323,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\SlowMo_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/SlowMo_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/SlowMo_T02.mp4"
   },
   {
     "name": "SlowMo_T03.mp4",
     "size": 11174471,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\SlowMo_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/SlowMo_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/SlowMo_T03.mp4"
   },
   {
     "name": "SupplyDrop_T01.mp4",
     "size": 10306333,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\SupplyDrop_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/SupplyDrop_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/SupplyDrop_T01.mp4"
   },
   {
     "name": "Teleporter_T01.mp4",
     "size": 5023777,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T01.mp4"
   },
   {
     "name": "Teleporter_T02.mp4",
     "size": 6171763,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T02.mp4"
   },
   {
     "name": "Teleporter_T03.mp4",
     "size": 6233445,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T03.mp4"
   },
   {
     "name": "Teleporter_T04.mp4",
     "size": 8428440,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Teleporter_T04.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T04.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Teleporter_T04.mp4"
   },
   {
     "name": "Turret_T01.mp4",
     "size": 7106795,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Turret_T01.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Turret_T01.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Turret_T01.mp4"
   },
   {
     "name": "Turret_T02.mp4",
     "size": 9274729,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Turret_T02.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Turret_T02.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Turret_T02.mp4"
   },
   {
     "name": "Turret_T03.mp4",
     "size": 4635829,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\Turret_T03.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/Turret_T03.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/Turret_T03.mp4"
   },
   {
     "name": "WeakpointVision.mp4",
     "size": 16594008,
     "path": "FortniteGame\\Content\\Movies\\Gadgets\\WeakpointVision.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Gadgets/WeakpointVision.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Gadgets/WeakpointVision.mp4"
   },
   {
     "name": "HombaseReturn_OutpostIntro.mp4",
     "size": 129156098,
     "path": "FortniteGame\\Content\\Movies\\HombaseReturn_OutpostIntro.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/HombaseReturn_OutpostIntro.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/HombaseReturn_OutpostIntro.mp4"
   },
   {
     "name": "HombaseReturn_OutpostIntro_en.mp4",
     "size": 4532714,
     "path": "FortniteGame\\Content\\Movies\\HombaseReturn_OutpostIntro_en.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/HombaseReturn_OutpostIntro_en.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/HombaseReturn_OutpostIntro_en.mp4"
   },
   {
     "name": "Tutorial_Build.mp4",
     "size": 20124104,
     "path": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_Build.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/OnBoarding/Tutorial_Build.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/OnBoarding/Tutorial_Build.mp4"
   },
   {
     "name": "Tutorial_Editing.mp4",
     "size": 14607742,
     "path": "FortniteGame\\Content\\Movies\\OnBoarding\\Tutorial_Editing.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/OnBoarding/Tutorial_Editing.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/OnBoarding/Tutorial_Editing.mp4"
   },
   {
     "name": "Onboarding_Appended_Intro.mp4",
     "size": 248602130,
     "path": "FortniteGame\\Content\\Movies\\Onboarding_Appended_Intro.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Onboarding_Appended_Intro.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Onboarding_Appended_Intro.mp4"
   },
   {
     "name": "Onboarding_Appended_Intro_VO.mp4",
     "size": 8515853,
     "path": "FortniteGame\\Content\\Movies\\Onboarding_Appended_Intro_VO.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Onboarding_Appended_Intro_VO.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Onboarding_Appended_Intro_VO.mp4"
   },
   {
     "name": "Onboarding_Flow_Appended_Intro_Movie_01_Loc.srt",
     "size": 2743,
     "path": "FortniteGame\\Content\\Movies\\Onboarding_Flow_Appended_Intro_Movie_01_Loc.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Onboarding_Flow_Appended_Intro_Movie_01_Loc.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Onboarding_Flow_Appended_Intro_Movie_01_Loc.srt"
   },
   {
     "name": "RPCollection.mp4",
     "size": 1767774,
     "path": "FortniteGame\\Content\\Movies\\RPCollection.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/RPCollection.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/RPCollection.mp4"
   },
   {
     "name": "FNBR_IntoTheStorm_SRT.en.srt",
     "size": 127,
     "path": "FortniteGame\\Content\\Movies\\SRT\\FNBR_IntoTheStorm_SRT.en.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/SRT/FNBR_IntoTheStorm_SRT.en.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/SRT/FNBR_IntoTheStorm_SRT.en.srt"
   },
   {
     "name": "SatelliteConnection.mp4",
     "size": 47505173,
     "path": "FortniteGame\\Content\\Movies\\SatelliteConnection.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/SatelliteConnection.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/SatelliteConnection.mp4"
   },
   {
     "name": "SatelliteConnection_en.mp4",
     "size": 1601970,
     "path": "FortniteGame\\Content\\Movies\\SatelliteConnection_en.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/SatelliteConnection_en.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/SatelliteConnection_en.mp4"
   },
   {
     "name": "FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_CONSOLE.mp4",
     "size": 26503563,
     "path": "FortniteGame\\Content\\Movies\\Season8\\FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_CONSOLE.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_CONSOLE.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_CONSOLE.mp4"
   },
   {
     "name": "FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_MOBILE.mp4",
     "size": 8411177,
     "path": "FortniteGame\\Content\\Movies\\Season8\\FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_MOBILE.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_MOBILE.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/FNBR_Ashton_Cine_V7B_ANIM_WATERMARK_MOBILE.mp4"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.JA.srt",
     "size": 123,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.JA.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.JA.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.JA.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.de_DE.srt",
     "size": 128,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.de_DE.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.de_DE.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.de_DE.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.en_EN.srt",
     "size": 116,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.en_EN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.en_EN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.en_EN.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.es_ES.srt",
     "size": 120,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.es_ES.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.es_ES.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.es_ES.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.es_MX.srt",
     "size": 120,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.es_MX.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.es_MX.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.es_MX.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.fr_FR.srt",
     "size": 122,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.fr_FR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.fr_FR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.fr_FR.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.it_IT.srt",
     "size": 116,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.it_IT.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.it_IT.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.it_IT.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.ko.srt",
     "size": 129,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.ko.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.ko.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.ko.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.pl.srt",
     "size": 119,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.pl.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.pl.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.pl.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.pt-BR.srt",
     "size": 119,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.pt-BR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.pt-BR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.pt-BR.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.ru_RU.srt",
     "size": 131,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.ru_RU.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.ru_RU.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.ru_RU.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.tr.srt",
     "size": 123,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.tr.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.tr.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.tr.srt"
   },
   {
     "name": "FNBR_Ashton_Cine_FINAL_SRT.zh-CN.srt",
     "size": 124,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Ashton_Cine_FINAL_SRT.zh-CN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.zh-CN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Ashton_Cine_FINAL_SRT.zh-CN.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.ar_AR.srt",
     "size": 471,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.ar_AR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ar_AR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ar_AR.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.de_DE.srt",
     "size": 431,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.de_DE.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.de_DE.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.de_DE.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.en_EN.srt",
     "size": 406,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.en_EN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.en_EN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.en_EN.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.es_ES.srt",
     "size": 431,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.es_ES.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.es_ES.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.es_ES.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.es_MX.srt",
     "size": 429,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.es_MX.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.es_MX.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.es_MX.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.fr_FR.srt",
     "size": 435,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.fr_FR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.fr_FR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.fr_FR.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.it_IT.srt",
     "size": 422,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.it_IT.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.it_IT.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.it_IT.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.ja_JP.srt",
     "size": 419,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.ja_JP.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ja_JP.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ja_JP.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.ko_KR.srt",
     "size": 329,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.ko_KR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ko_KR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ko_KR.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.pl_PL.srt",
     "size": 452,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.pl_PL.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.pl_PL.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.pl_PL.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.pt_BR.srt",
     "size": 418,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.pt_BR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.pt_BR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.pt_BR.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.ru_RU.srt",
     "size": 505,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.ru_RU.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ru_RU.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.ru_RU.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.tr_TR.srt",
     "size": 118,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.tr_TR.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.tr_TR.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.tr_TR.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.zh_CN.srt",
     "size": 408,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.zh_CN.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.zh_CN.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.zh_CN.srt"
   },
   {
     "name": "FNBR_Season 8 Cinematic_SRT.zh_TW.srt",
     "size": 408,
     "path": "FortniteGame\\Content\\Movies\\Season8\\SRTs\\FNBR_Season 8 Cinematic_SRT.zh_TW.srt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.zh_TW.srt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/Season8/SRTs/FNBR_Season 8 Cinematic_SRT.zh_TW.srt"
   },
   {
     "name": "LaunchBalloon.mp4",
     "size": 10518428,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\LaunchBalloon.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/LaunchBalloon.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/LaunchBalloon.mp4"
   },
   {
     "name": "LaunchRocket_v1.mp4",
     "size": 16640632,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\LaunchRocket_v1.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/LaunchRocket_v1.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/LaunchRocket_v1.mp4"
   },
   {
     "name": "OutpostVictory.mp4",
     "size": 8547386,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\OutpostVictory.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/OutpostVictory.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/OutpostVictory.mp4"
   },
   {
     "name": "RetrieveData_v1.mp4",
     "size": 8152144,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\RetrieveData_v1.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/RetrieveData_v1.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/RetrieveData_v1.mp4"
   },
   {
     "name": "SeverTether_v1.mp4",
     "size": 10458397,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\SeverTether_v1.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/SeverTether_v1.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/SeverTether_v1.mp4"
   },
   {
     "name": "mission_failure_generic.mp4",
     "size": 4450133,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\mission_failure_generic.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/mission_failure_generic.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/mission_failure_generic.mp4"
   },
   {
     "name": "mission_success_generic.mp4",
     "size": 6778500,
     "path": "FortniteGame\\Content\\Movies\\VictoryMovies\\mission_success_generic.mp4",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Movies/VictoryMovies/mission_success_generic.mp4"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Movies/VictoryMovies/mission_success_generic.mp4"
   },
   {
     "name": "placeholder.txt",
     "size": 0,
     "path": "FortniteGame\\Content\\PackagedReplays\\placeholder.txt",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/PackagedReplays/placeholder.txt"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/PackagedReplays/placeholder.txt"
   },
   {
     "name": "pakchunk0-WindowsClient.pak",
     "size": 794371276,
     "path": "FortniteGame\\Content\\Paks\\pakchunk0-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk0-WindowsClient.pak"
   },
   {
     "name": "pakchunk0-WindowsClient.sig",
     "size": 49016,
     "path": "FortniteGame\\Content\\Paks\\pakchunk0-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk0-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk0-WindowsClient.sig"
   },
   {
     "name": "pakchunk1-WindowsClient.pak",
     "size": 3528001773,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1-WindowsClient.pak"
   },
   {
     "name": "pakchunk1-WindowsClient.sig",
     "size": 215864,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1-WindowsClient.sig"
   },
   {
     "name": "pakchunk10-WindowsClient.pak",
     "size": 4334004205,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10-WindowsClient.pak"
   },
   {
     "name": "pakchunk10-WindowsClient.sig",
     "size": 265056,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10-WindowsClient.sig"
   },
   {
     "name": "pakchunk1000-WindowsClient.pak",
     "size": 28128466,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1000-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1000-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1000-WindowsClient.pak"
   },
   {
     "name": "pakchunk1000-WindowsClient.sig",
     "size": 2248,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1000-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1000-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1000-WindowsClient.sig"
   },
   {
     "name": "pakchunk1001-WindowsClient.pak",
     "size": 63712594,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1001-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1001-WindowsClient.pak"
   },
   {
     "name": "pakchunk1001-WindowsClient.sig",
     "size": 4420,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1001-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1001-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1001-WindowsClient.sig"
   },
   {
     "name": "pakchunk1002-WindowsClient.pak",
     "size": 133980818,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1002-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1002-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1002-WindowsClient.pak"
   },
   {
     "name": "pakchunk1002-WindowsClient.sig",
     "size": 8708,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1002-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1002-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1002-WindowsClient.sig"
   },
   {
     "name": "pakchunk1003-WindowsClient.pak",
     "size": 33649138,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1003-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1003-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1003-WindowsClient.pak"
   },
   {
     "name": "pakchunk1003-WindowsClient.sig",
     "size": 2584,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1003-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1003-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1003-WindowsClient.sig"
   },
   {
     "name": "pakchunk1004-WindowsClient.pak",
     "size": 24545522,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1004-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1004-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1004-WindowsClient.pak"
   },
   {
     "name": "pakchunk1004-WindowsClient.sig",
     "size": 2028,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1004-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1004-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1004-WindowsClient.sig"
   },
   {
     "name": "pakchunk1005-WindowsClient.pak",
     "size": 22883266,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1005-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1005-WindowsClient.pak"
   },
   {
     "name": "pakchunk1005-WindowsClient.sig",
     "size": 1928,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1005-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1005-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1005-WindowsClient.sig"
   },
   {
     "name": "pakchunk1006-WindowsClient.pak",
     "size": 6798578,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1006-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1006-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1006-WindowsClient.pak"
   },
   {
     "name": "pakchunk1006-WindowsClient.sig",
     "size": 944,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1006-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1006-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1006-WindowsClient.sig"
   },
   {
     "name": "pakchunk1007-WindowsClient.pak",
     "size": 45182946,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1007-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1007-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1007-WindowsClient.pak"
   },
   {
     "name": "pakchunk1007-WindowsClient.sig",
     "size": 3288,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1007-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1007-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1007-WindowsClient.sig"
   },
   {
     "name": "pakchunk1008-WindowsClient.pak",
     "size": 10916066,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1008-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1008-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1008-WindowsClient.pak"
   },
   {
     "name": "pakchunk1008-WindowsClient.sig",
     "size": 1196,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1008-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1008-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1008-WindowsClient.sig"
   },
   {
     "name": "pakchunk1009-WindowsClient.pak",
     "size": 42020018,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1009-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1009-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1009-WindowsClient.pak"
   },
   {
     "name": "pakchunk1009-WindowsClient.sig",
     "size": 3096,
     "path": "FortniteGame\\Content\\Paks\\pakchunk1009-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk1009-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk1009-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s1-WindowsClient.pak",
     "size": 4343733830,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s1-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s1-WindowsClient.sig",
     "size": 265652,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s1-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s1-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s2-WindowsClient.pak",
     "size": 4301859186,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s2-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s2-WindowsClient.sig",
     "size": 263096,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s2-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s2-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s3-WindowsClient.pak",
     "size": 4302487136,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s3-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s3-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s3-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s3-WindowsClient.sig",
     "size": 263132,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s3-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s3-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s3-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s4-WindowsClient.pak",
     "size": 4321101951,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s4-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s4-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s4-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s4-WindowsClient.sig",
     "size": 264268,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s4-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s4-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s4-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s5-WindowsClient.pak",
     "size": 4308988800,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s5-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s5-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s5-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s5-WindowsClient.sig",
     "size": 263528,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s5-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s5-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s5-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s6-WindowsClient.pak",
     "size": 4391602504,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s6-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s6-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s6-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s6-WindowsClient.sig",
     "size": 268572,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s6-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s6-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s6-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s7-WindowsClient.pak",
     "size": 4339707746,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s7-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s7-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s7-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s7-WindowsClient.sig",
     "size": 265404,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s7-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s7-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s7-WindowsClient.sig"
   },
   {
     "name": "pakchunk10_s8-WindowsClient.pak",
     "size": 923142326,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s8-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s8-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s8-WindowsClient.pak"
   },
   {
     "name": "pakchunk10_s8-WindowsClient.sig",
     "size": 56876,
     "path": "FortniteGame\\Content\\Paks\\pakchunk10_s8-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk10_s8-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk10_s8-WindowsClient.sig"
   },
   {
     "name": "pakchunk11-WindowsClient.pak",
     "size": 4319425080,
     "path": "FortniteGame\\Content\\Paks\\pakchunk11-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk11-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk11-WindowsClient.pak"
   },
   {
     "name": "pakchunk11-WindowsClient.sig",
     "size": 264168,
     "path": "FortniteGame\\Content\\Paks\\pakchunk11-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk11-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk11-WindowsClient.sig"
   },
   {
     "name": "pakchunk11_s1-WindowsClient.pak",
     "size": 2744216532,
     "path": "FortniteGame\\Content\\Paks\\pakchunk11_s1-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient.pak"
   },
   {
     "name": "pakchunk11_s1-WindowsClient.sig",
     "size": 168024,
     "path": "FortniteGame\\Content\\Paks\\pakchunk11_s1-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk11_s1-WindowsClient.sig"
   },
   {
     "name": "pakchunk2-WindowsClient.pak",
     "size": 422206457,
     "path": "FortniteGame\\Content\\Paks\\pakchunk2-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk2-WindowsClient.pak"
   },
   {
     "name": "pakchunk2-WindowsClient.sig",
     "size": 26300,
     "path": "FortniteGame\\Content\\Paks\\pakchunk2-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk2-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk2-WindowsClient.sig"
   },
   {
     "name": "pakchunk5-WindowsClient.pak",
     "size": 394595737,
     "path": "FortniteGame\\Content\\Paks\\pakchunk5-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk5-WindowsClient.pak"
   },
   {
     "name": "pakchunk5-WindowsClient.sig",
     "size": 24616,
     "path": "FortniteGame\\Content\\Paks\\pakchunk5-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk5-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk5-WindowsClient.sig"
   },
   {
     "name": "pakchunk7-WindowsClient.pak",
     "size": 432185241,
     "path": "FortniteGame\\Content\\Paks\\pakchunk7-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk7-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk7-WindowsClient.pak"
   },
   {
     "name": "pakchunk7-WindowsClient.sig",
     "size": 26908,
     "path": "FortniteGame\\Content\\Paks\\pakchunk7-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk7-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk7-WindowsClient.sig"
   },
   {
     "name": "pakchunk8-WindowsClient.pak",
     "size": 419500697,
     "path": "FortniteGame\\Content\\Paks\\pakchunk8-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk8-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk8-WindowsClient.pak"
   },
   {
     "name": "pakchunk8-WindowsClient.sig",
     "size": 26136,
     "path": "FortniteGame\\Content\\Paks\\pakchunk8-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk8-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk8-WindowsClient.sig"
   },
   {
     "name": "pakchunk9-WindowsClient.pak",
     "size": 93201558,
     "path": "FortniteGame\\Content\\Paks\\pakchunk9-WindowsClient.pak",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk9-WindowsClient.pak"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk9-WindowsClient.pak"
   },
   {
     "name": "pakchunk9-WindowsClient.sig",
     "size": 6220,
     "path": "FortniteGame\\Content\\Paks\\pakchunk9-WindowsClient.sig",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Paks/pakchunk9-WindowsClient.sig"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Paks/pakchunk9-WindowsClient.sig"
   },
   {
     "name": "Splash.bmp",
     "size": 1417016,
     "path": "FortniteGame\\Content\\Splash\\Splash.bmp",
-    "url": "https://builds-storage.madandroid.xyz/8.51/FortniteGame/Content/Splash/Splash.bmp"
+    "url": "https://cdn.fmod.dev/8.51/FortniteGame/Content/Splash/Splash.bmp"
   }
 ]
